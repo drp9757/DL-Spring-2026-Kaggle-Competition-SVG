@@ -38,7 +38,9 @@ The task is to generate valid SVG strings from text prompts under the competitio
 
 ## Reproducibility
 
-Install dependencies:
+Install dependencies and Dataset:
+
+Dataset link: https://drive.google.com/drive/folders/1SZUtg9NFyaZJ75GiVVLelec6GwanKMqa?usp=sharing
 
 ```bash
 pip install -r requirements.txt
