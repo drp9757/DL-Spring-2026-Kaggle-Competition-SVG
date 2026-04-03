@@ -1,0 +1,4 @@
+dl-spring-2026-svg-generation/
+*.csv
+.ipynb_checkpoints/
+.DS_Store
